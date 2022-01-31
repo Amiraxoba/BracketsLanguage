@@ -8,7 +8,7 @@
 `< NUMBER` - Decreases the NUMBER of the Value of the current Cell<br>
 `[ NUMBER` - Increases the Cell Pointer<br>
 `] NUMBER` - Increases the Cell Pointer<br>
-`(((` - Print the Value of the current Cell in the Cli
+`(((` - Print the Value of the current Cell in the Cli<br>
 `())` - Get the Input of
 
 ## Run your CustomDictionaries
