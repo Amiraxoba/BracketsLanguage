@@ -1,5 +1,6 @@
 # BracketsLanguage
-BracketsLanguage is a language similar to Brainfuck.
+
+**BracketsLanguage** is an esoteric programming language similar to Brainfuck and can compile to it natively.
 
 ## Numbers
 
@@ -17,15 +18,18 @@ BracketsLanguage is a language similar to Brainfuck.
 - `())` Gets input
 
 ## Run your CustomDictionaries
+
 `%BINARY` is the path to the binary file.
 
-- #### Run the Code in your Cli
+- #### Run the code using the cli
+  
+  > `%BINARY run ENTIRE_PATH_TO_YOUR_SCRIPT`
 
-    > `%BINARY run ENTIRE_PATH_TO_YOUR_SCRIPT`
+- #### Compile your code to Brainfuck
+  
+  > `%BINARY build ENTIRE_PATH_TO_YOUR_SCRIPT`
 
-- #### Compile your code to BrainF**k
-
-    > `%BINARY build ENTIRE_PATH_TO_YOUR_SCRIPT`
+## $\frac{1}{2}$
 
 ## Support
 
@@ -33,4 +37,4 @@ BracketsLanguage is a language similar to Brainfuck.
 - [x] Windows
 - [ ] MacOs
 
-Request support for your operating system through Github issues.
+Request support for your operating system through GitHub issues.
