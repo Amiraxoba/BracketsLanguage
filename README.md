@@ -29,8 +29,6 @@
   
   > `%BINARY build ENTIRE_PATH_TO_YOUR_SCRIPT`
 
-## $\frac{1}{2}$
-
 ## Support
 
 - [x] Linux
